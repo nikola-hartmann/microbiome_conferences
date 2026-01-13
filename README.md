@@ -184,7 +184,7 @@ This repository is intended for:
 
 ## December 2026
 
-TBD
+TBA
 
 ## 📬 Contact
 
