@@ -66,23 +66,12 @@ This repository is intended for:
 🔬 Focus: partnering, dealmaking & collaboration across microbiome biotech and pharma  
 🔗 [Link](https://www.microbiomeforum.com/)
 
-### 🧬 International Conference on Metabolism and Gut Microbiome
-📍 São Paulo, Brazil  
-🗓 **19 March 2026**  
-🔬 Focus: gut microbiome, metabolism & metabolic health  
-🔗 [Link](https://after.org.in/event/index.php?id=100300273)
 
 ### 🧬 The Microbiome Throughout Life
 📍 Belgrade, Serbia  
 🗓 **19–21 March 2026**  
 🔬 Focus: microbiome across the life course, from early life to aging, with emphasis on clinical translation  
 🔗 [Link](https://microbiometolife.com/)
-
-### 🧬 International Conference on Gut Health, Microbiome & Athletic Performance
-📍 Greater La Serena, Chile  
-🗓 **27–28 March 2026**  
-🔬 Focus: microbiome, nutrition & performance  
-🔗 [Link](https://www.researchfora.net/event/index.php?id=100325801)
 
 
 ## April 2026
@@ -153,25 +142,6 @@ This repository is intended for:
 🔬 Focus: microbiome therapeutics + industry-facing research  
 🔗 [Link](https://microbiomecongress.org)
 
-### 🧬 International Conference on Microbiome Research 
-📍 Paris, France  
-🗓 **22–23 June 2026**  
-🔬 Focus: microbiome research across health, disease and applied sciences  
-🔗 [Link](https://waset.org/microbiome-research-conference-in-june-2026-in-paris)
-
-### 🧬 International Conference on Microbiome Science & Precision Nutrition
-📍 Athens, Greece  
-🗓 **22–23 June 2026**  
-🔬 Focus: microbiome science, nutrition, metabolism and precision health  
-🔗 [Link](https://scientificwisdom.org/conferences/microbiome-science-precision-nutrition.html)
-
-### 🧬 IPC 2026 – Probiotics, Prebiotics & Gut Microbiota
-📍 Kraków, Poland  
-🗓 **22–24 June 2026**  
-🔬 Focus: gut microbiota modulation, pharmabiotics, postbiotics, regulatory updates  
-🔗 [Link](https://probiotic-conference.net)
-
-
 ## July 2026
 
 ### 🧬 Conference on Beneficial Microbes
@@ -182,12 +152,6 @@ This repository is intended for:
 
 
 ## August 2026
-
-### 🧬 International Conference on Metabolism and Gut Microbiome
-📍 Prague, Czech Republic  
-🗓 **14–15 August 2026**  
-🔬 Focus: metabolism × gut microbiome (talks + networking; hybrid/in-person)  
-🔗 [Link](https://worldacademics.net/event/index.php?id=100576962)
 
 ### 🧬 Malibu Microbiome Meeting 2026
 📍 Malibu, California, USA  
@@ -201,12 +165,6 @@ This repository is intended for:
 🔬 Focus: microbial ecology & host-associated microbiomes  
 🔗 [Link](https://isme-microbes.org/isme-symposia/isme20/)
 
-### 🧬 International Conference on Microbiome Dynamics and Host Interactions
-📍 Barcelona, Spain  
-🗓 **20–21 August 2026**  
-🔬 Focus: host–microbiome interactions, microbiome dynamics  
-🔗 [Link](https://iser.org.in/conf/index.php?id=100501020&source=aca) 
-
 
 ## September 2026
 
@@ -216,12 +174,6 @@ This repository is intended for:
 🔬 Focus: clinical microbiome, case studies  
 🔗 [Link](https://www.microbiomekeynotes.com/)
 
-### 🧬 8th European Congress on Applied Microbiology and Beneficial Microbes
-📍 Budapest, Hungary  
-🗓 **24–25 September 2026**  
-🔬 Focus: applied microbiology, beneficial microbes, biotech and industry translation  
-🔗 [Link](https://crgconferences.com/appliedmicrobiology)
-
 
 ## October 2026
 
@@ -230,12 +182,6 @@ This repository is intended for:
 🗓 **27–31 October 2026**  
 🔬 Focus: fundamental microbiome biology & methods  
 🔗 [Link](https://meetings.cshl.edu/meetings.aspx?meet=BIOME)
-
-### 🧬 International Conference on Microbiome Dynamics & Host Interactions
-📍 Las Vegas, USA  
-🗓 **09–10 October 2026**  
-🔬 Focus: host–microbiome interactions, microbiome dynamics, translational research  
-🔗 [Link](https://www.iarfconference.com/conf/about-conference.php?id=100872248)
 
 
 ## November 2026
@@ -249,11 +195,7 @@ This repository is intended for:
 
 ## December 2026
 
-### 🧬 ICM 2026 – International Conference on Microbiome
-📍 Amsterdam, Netherlands  
-🗓 **03–04 December 2026**  
-🔬 Focus: general microbiome research topics (TBD)  
-🔗 [Link](https://waset.org/microbiome-conference-in-december-2026-in-amsterdam?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing)
+TBD
 
 ## 📬 Contact
 
