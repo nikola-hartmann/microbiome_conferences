@@ -117,7 +117,7 @@ This repository is intended for:
 ### 🧬 Microbiome & Probiotics R&D and Business Collaboration Forum 2026
 📍 Rotterdam, The Netherlands  
 🗓 **11–12 May 2026**  
-🔬 Focus: gut health and disease, gut-brain axis, biotics, personalized nutrition, industry collaboration
+🔬 Focus: gut health and disease, gut–brain axis, biotics, personalized nutrition, industry collaboration  
 🔗 [Link](https://global-engage.com/product/microbiota-2026/)
 
 ### 🧬 One Health Microbiome Symposium 2026
@@ -132,13 +132,13 @@ This repository is intended for:
 ### 🧬 IHMC 2026 (International Human Microbiome Consortium)
 📍 Seoul, South Korea  
 🗓 **03–05 June 2026**  
-🔬 Focus: human microbiome research, microbiome and immunity, host-microbiome interactions
+🔬 Focus: human microbiome research, microbiome and immunity, host–microbiome interactions  
 🔗 [Link](https://www.ihmc2026seoul.com/)
 
 ### 🧬 ASM Microbe 2026
 📍 Washington, DC, USA  
 🗓 **04–07 June 2026**  
-🔬 Focus: microbiome role in human health and environment
+🔬 Focus: microbiome role in human health and environment  
 🔗 [Link](https://asm.org/events/asm-microbe/home)
 
 ### 🧬 Probiota Americas 2026
