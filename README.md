@@ -94,9 +94,9 @@ This repository is intended for:
 🔗 [Link](https://microbiologysociety.org/event/annual-conference/annual-conference-2026.html)
 
 ### 🧬 Microbiome in Human Health — 3rd Microbiome PT Summit
-📍 Lisbon, Portugal
+📍 Lisbon, Portugal  
 🗓 **15–16 April 2026**  
-🔬 Focus: microbiome in human health, gut microbiome and nutrition, microbiome data analysis   
+🔬 Focus: human microbiome research, gut health, diet & nutrition, host–microbiome interactions, microbiome data analysis  
 🔗 [Link](https://events.biodata.pt/event/6/)
 
 ### 🧬 ESCMID Global 2026
