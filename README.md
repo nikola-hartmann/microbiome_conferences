@@ -20,7 +20,7 @@ This repository is intended for:
 
 ### 🧬 Microbiome Movement Summit Europe 
 📍 London, UK  
-🗓️ **Jan 27–29, 2026**  
+🗓️ **27–29 January 2026**  
 🔬 Focus: translating microbiome science into real products (strong industry + investor angle)  
 🔗 [Link](https://microbiome-europe.com/)
 
@@ -90,7 +90,7 @@ This repository is intended for:
 ### 🧬 Microbiology Society Annual Conference 2026
 📍 Belfast, UK  
 🗓 **13–16 April 2026**  
-🔬 Focus: UK's largest annual gathering of microbiologists  
+🔬 Focus: microbiome in health and environment   
 🔗 [Link](https://microbiologysociety.org/event/annual-conference/annual-conference-2026.html)
 
 ### 🧬 ESCMID Global 2026
@@ -125,14 +125,14 @@ This repository is intended for:
 
 ### 🧬 IHMC 2026 (International Human Microbiome Consortium)
 📍 Seoul, South Korea  
-🗓 **3–5 June 2026**  
-🔬 Focus: human microbiome research, microbiome and immunity, host-microbiome interactions, AI microbiome research   
+🗓 **03–05 June 2026**  
+🔬 Focus: human microbiome research, microbiome and immunity, host-microbiome interactions
 🔗 [Link](https://www.ihmc2026seoul.com/)
 
 ### 🧬 ASM Microbe 2026
 📍 Washington, DC, USA  
 🗓 **04–07 June 2026**  
-🔬 Focus: microbiome and human health, environment and latest discoveries in microbiome science   
+🔬 Focus: microbiome role in human health and environment
 🔗 [Link](https://asm.org/events/asm-microbe/home)
 
 ### 🧬 Probiota Americas 2026
@@ -177,7 +177,7 @@ This repository is intended for:
 
 ## August 2026
 
-### 🧬 International Conference on Metabolism and Gut Microbiome (ICMGMB-26)
+### 🧬 International Conference on Metabolism and Gut Microbiome
 📍 Prague, Czech Republic  
 🗓 **14–15 August 2026**  
 🔬 Focus: metabolism × gut microbiome (talks + networking; hybrid/in-person)  
@@ -207,7 +207,7 @@ This repository is intended for:
 ### 🧬 2026 Microbiome Keynotes Symposium
 📍 Nashville, TN, USA  
 🗓 **24–27 September 2026**  
-🔬 Focus: clinical microbiome, woman's health concerns, case studies  
+🔬 Focus: clinical microbiome, case studies  
 🔗 [Link](https://www.microbiomekeynotes.com/)
 
 ### 🧬 8th European Congress on Applied Microbiology and Beneficial Microbes
@@ -227,7 +227,7 @@ This repository is intended for:
 
 ### 🧬 International Conference on Microbiome Dynamics & Host Interactions
 📍 Las Vegas, USA  
-🗓 **9–10 October 2026**  
+🗓 **09–10 October 2026**  
 🔬 Focus: host–microbiome interactions, microbiome dynamics, translational research  
 🔗 [Link](https://www.iarfconference.com/conf/about-conference.php?id=100872248)
 
@@ -236,7 +236,7 @@ This repository is intended for:
 
 ### 🧬 IUMS Biennial Congress 2026
 📍 Lisbon, Portugal  
-🗓 **4–6 November 2026**  
+🗓 **04–06 November 2026**  
 🔬 Focus: AI & innovation in microbiology  
 🔗 [Link](https://iums2026.com/)
 
