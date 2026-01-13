@@ -10,10 +10,6 @@ This repository is intended for:
 
 ---
 
-## 📅 Conferences by Month
-
----
-
 ## January 2026
 
 ### 🔬 Keystone Symposia – *Human Microbiome: From Models and Mechanism to Medicine*
@@ -28,7 +24,6 @@ This repository is intended for:
 🧠 Focus: translating microbiome science into real products (strong industry + investor angle)  
 🔗 https://microbiome-europe.com/
 
----
 
 ## February 2026
 
@@ -50,7 +45,6 @@ This repository is intended for:
 🧠 Focus: microbe-centric view of microbiomes across human, animal, plant and environmental systems  
 🔗 https://microbiologysociety.org/event/society-events-and-meetings/microbes-in-microbiomes.html
 
----
 
 ## 🧬 March 2026
 
@@ -90,7 +84,6 @@ This repository is intended for:
 🧠 Focus: microbiome, nutrition & performance  
 🔗 https://www.researchfora.net/event/index.php?id=100325801
 
----
 
 ## 🌸 April 2026
 
@@ -106,7 +99,6 @@ This repository is intended for:
 🧠 Focus: clinical microbiology, infectious disease & microbiome-related diagnostics  
 🔗 https://www.escmid.org/congress-events/escmid-global/
 
----
 
 ## 🌿 May 2026
 
@@ -128,7 +120,6 @@ This repository is intended for:
 🧠 Focus: One Health approaches to the microbiome across human, animal and environmental health  
 🔗 https://www.huck.psu.edu/institutes-and-centers/microbiome-center/2026-one-health-microbiome-symposium
 
----
 
 ## 🌞 June 2026
 
@@ -174,7 +165,6 @@ This repository is intended for:
 🧠 Focus: gut microbiota modulation & clinical studies  
 🔗 https://probiotic-conference.net
 
----
 
 ## July 2026
 
@@ -184,7 +174,6 @@ This repository is intended for:
 🧠 Focus: beneficial microbes, symbiosis & host–microbe biology  
 🔗 https://conferences.union.wisc.edu/microbes/
 
----
 
 ## August 2026
 
@@ -212,7 +201,6 @@ This repository is intended for:
 🧠 Focus: host–microbiome interactions, microbiome dynamics  
 🔗 https://iser.org.in/conf/index.php?id=100501020&source=aca 
 
----
 
 ## 🍂 September 2026
 
@@ -228,7 +216,6 @@ This repository is intended for:
 🧠 Focus: applied microbiology, beneficial microbes, biotech and industry translation  
 🔗 https://crgconferences.com/appliedmicrobiology
 
----
 
 ## 🍂 October 2026
 
@@ -244,7 +231,6 @@ This repository is intended for:
 🧠 Focus: host–microbiome interactions, microbiome dynamics, translational research  
 🔗 https://www.iarfconference.com/conf/about-conference.php?id=100872248
 
----
 
 ## 🍁 November 2026
 
@@ -254,7 +240,6 @@ This repository is intended for:
 🧠 Focus: microbiology across disciplines, with strong microbiome representation; AI & innovation in microbiology  
 🔗 https://iums2026.org
 
----
 
 ## ❄️ December 2026
 
@@ -264,13 +249,7 @@ This repository is intended for:
 🧠 Focus: general microbiome research (broad academic program)  
 🔗 https://waset.org/microbiome-conference-in-december-2026-in-amsterdam?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing
 
----
-
 ## 📬 Contact
 
-Maintained by **Nikola Hartmann**  
-If you spot an error or missing event, feel free to open an issue.
-
----
-
-⭐ If you find this useful, consider starring the repo!
+Missing a conference or spotted a mistake?  
+Open an issue or contact me! ⭐
