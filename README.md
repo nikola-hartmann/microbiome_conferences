@@ -136,11 +136,6 @@ This repository is intended for:
 🔬 Focus: probiotics, prebiotics, postbiotics & industry translation  
 🔗 [Link](https://probiotaamericas.com/live/en/page/homepage)
 
-### 🧬 Global Microbiome Congress 2026
-📍 Boston, USA + Virtual  
-🗓 **15–16 June 2026**  
-🔬 Focus: microbiome therapeutics + industry-facing research  
-🔗 [Link](https://microbiomecongress.org)
 
 ## July 2026
 
@@ -152,12 +147,6 @@ This repository is intended for:
 
 
 ## August 2026
-
-### 🧬 Malibu Microbiome Meeting 2026
-📍 Malibu, California, USA  
-🗓 **15 August 2026**  
-🔬 Focus: microbiome updates across medicine + industry + government  
-🔗 [Link](https://malibumicrobiomemeeting.com/)
 
 ### 🧬 ISME20 – International Symposium on Microbial Ecology
 📍 Auckland, New Zealand  
