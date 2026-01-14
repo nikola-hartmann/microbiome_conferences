@@ -176,6 +176,13 @@ This repository is intended for:
 🔗 [Link](https://probiotaamericas.com/live/en/page/homepage)
 
 
+### 🧬 Microbiome Anchor Conference 2026
+📍 Western Shore, Nova Scotia, Canada  
+🗓 **08–10 June 2026**  
+🔬 Focus: microbial communities, computational microbiome analysis, multi-omics integration, host–microbe interactions, environmental and human health applications  
+🔗 [Link](https://microbiome-anchor.ca/)
+
+
 ### 🧬 7th International Metaproteomics Symposium
 📍 Dessau, Germany  
 🗓 **21–24 June 2026**  
