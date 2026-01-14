@@ -29,7 +29,7 @@ This repository is intended for:
 ## February 2026
 
 ### 🧬 BCMM Annual Symposium — Engineering Microbiomes
-📍 San Francisco, California, USA
+📍 San Francisco, California, USA  
 🗓 **03 February 2026**  
 🔬 Focus: advances in microbe engineering  
 🔗 [Link](https://microbiome.ucsf.edu/events/bcmm-symposium)
