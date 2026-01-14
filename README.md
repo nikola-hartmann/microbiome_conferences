@@ -123,6 +123,13 @@ This repository is intended for:
 🔗 [Link](https://www.escmid.org/congress-events/escmid-global/)
 
 
+### 🧬 Microbes in Women’s Health Congress 2026
+📍 Valencia, Spain  
+🗓 **21–22 April 2026**  
+🔬 Focus: microbiome science applied to women’s health, including vaginal and gut microbiome, reproductive health and menopause  
+🔗 [Link](https://www.womensmicrobes.com/)
+
+
 ## May 2026
 
 ### 🧬 SeedCon 2026 – International Conference on the Seed Microbiome and Microbial Inheritance
