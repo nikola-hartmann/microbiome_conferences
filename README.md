@@ -103,6 +103,13 @@ This repository is intended for:
 
 ## May 2026
 
+### 🧬 SeedCon 2026 – International Conference on the Seed Microbiome and Microbial Inheritance
+📍 Potsdam, Germany  
+🗓 **05–07 May 2026**  
+🔬 Focus: seed microbiome, microbial inheritance, plant–microbe interactions, environmental and agricultural microbiomes  
+🔗 [Link](https://seedcon.org/program)
+
+
 ### 🧬 Cell Symposia: Host–Microbiome Dynamics
 📍 Bruges, Belgium  
 🗓 **10–12 May 2026**  
