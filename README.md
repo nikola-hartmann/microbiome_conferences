@@ -226,6 +226,14 @@ This repository is intended for:
 
 ## October 2026
 
+### 🧬 ISAPP-SFA Annual Meeting 2026 (Students & Fellows Association)
+📍 Tokyo, Japan  
+🗓 **06–08 October 2026**  
+🔬 Focus: probiotics, prebiotics, postbiotics, fermented foods, and health effects of commensal microbes; early-career research presentations & networking  
+🎓 Notes: student-led meeting under ISAPP; travel and accommodation grants available for selected abstracts  
+🔗 [Link](https://www.isapp-sfa.com/tokyo-2026)
+
+
 ### 🧬 Cold Spring Harbor – Microbiome Meeting
 📍 Cold Spring Harbor, USA  
 🗓 **27–31 October 2026**  
