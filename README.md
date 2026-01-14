@@ -18,6 +18,7 @@ This repository is intended for:
 🔬 Focus: host–microbe interactions, microbiome metabolism, translational research  
 🔗 [Link](https://www.keystonesymposia.org/conferences/conference-listing/meeting/j42026)
 
+
 ### 🧬 Microbiome Movement Summit Europe 
 📍 London, UK  
 🗓️ **27–29 January 2026**  
@@ -33,11 +34,13 @@ This repository is intended for:
 🔬 Focus: pharmabiotics, LBPs, microbiome-based drugs, regulation & clinical translation  
 🔗 [Link](https://infogut.eu/event/2026-pharmabiotics-conference/)
 
+
 ### 🧬 IPA World Congress + Probiota 2026
 📍 Dublin, Ireland  
 🗓 **11–13 February 2026**  
 🔬 Focus: biotics, gut microbiota, clinical & industry applications  
 🔗 [Link](https://probiotaevent.com)
+
 
 ### 🧬 Microbes in Microbiomes
 📍 Miami, USA  
@@ -54,11 +57,13 @@ This repository is intended for:
 🔬 Focus: host–microbiome interactions, health & disease, emerging tools  
 🔗 [Link](https://fems-microbiology.org/opportunities/microbiome-interactions-in-health-and-disease/)
 
+
 ### 🧬 Gut Microbiota for Health (GMFH) World Summit 2026 
 📍 Porto, Portugal  
 🗓 **14–15 March 2026**  
 🔬 Focus: gut microbiome in clinical practice, diet-based modulation  
 🔗 [Link](https://www.gutmicrobiotaforhealth.com/porto-2026-fourteenth-edition/)
+
 
 ### 🧬 Microbiome Times / Microbiome Forum
 📍 Copenhagen, Denmark  
@@ -82,17 +87,27 @@ This repository is intended for:
 🔬 Focus: soil biodiversity, soil microbiomes, links between soil health, climate and policy  
 🔗 [Link](https://www.globalsoilbiodiversity.org/gsb4)
 
+
 ### 🧬 Microbiology Society Annual Conference 2026
 📍 Belfast, UK  
 🗓 **13–16 April 2026**  
 🔬 Focus: microbiome in health and environment   
 🔗 [Link](https://microbiologysociety.org/event/annual-conference/annual-conference-2026.html)
 
+
+### 🧬 4th International Conference of Microbial Ecology and Biotechnology
+📍 Muscat, Oman  
+🗓 **13–16 April 2026**  
+🔬 Focus: microbial ecology, microbiology and biotechnology
+🔗 [Link](https://conferences.squ.edu.om/mesme2026/)
+
+
 ### 🧬 Microbiome in Human Health — 3rd Microbiome PT Summit
 📍 Lisbon, Portugal  
 🗓 **15–16 April 2026**  
 🔬 Focus: human microbiome research, gut health, diet & nutrition, host–microbiome interactions, microbiome data analysis  
 🔗 [Link](https://events.biodata.pt/event/6/)
+
 
 ### 🧬 ESCMID Global 2026
 📍 Munich, Germany  
@@ -116,11 +131,13 @@ This repository is intended for:
 🔬 Focus: host–microbiome interactions & immune regulation  
 🔗 [Link](https://www.cell-symposia.com/microbiome-2026/)
 
+
 ### 🧬 Microbiome & Probiotics R&D and Business Collaboration Forum 2026
 📍 Rotterdam, The Netherlands  
 🗓 **11–12 May 2026**  
 🔬 Focus: gut health and disease, gut–brain axis, biotics, personalized nutrition, industry collaboration  
 🔗 [Link](https://global-engage.com/product/microbiota-2026/)
+
 
 ### 🧬 One Health Microbiome Symposium 2026
 📍 University Park, PA, USA  
@@ -137,17 +154,20 @@ This repository is intended for:
 🔬 Focus: human microbiome research, microbiome and immunity, host–microbiome interactions  
 🔗 [Link](https://www.ihmc2026seoul.com/)
 
+
 ### 🧬 ASM Microbe 2026
 📍 Washington, DC, USA  
 🗓 **04–07 June 2026**  
 🔬 Focus: microbiome role in human health and environment  
 🔗 [Link](https://asm.org/events/asm-microbe/home)
 
+
 ### 🧬 Probiota Americas 2026
 📍 Vancouver, Canada  
 🗓 **08–10 June 2026**  
 🔬 Focus: probiotics, prebiotics, postbiotics & industry translation  
 🔗 [Link](https://probiotaamericas.com/live/en/page/homepage)
+
 
 ### 🧬 7th International Metaproteomics Symposium
 📍 Dessau, Germany  
