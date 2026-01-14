@@ -76,6 +76,12 @@ This repository is intended for:
 
 ## April 2026
 
+### 🧬 4th Global Soil Biodiversity Conference
+📍 Victoria, British Columbia, Canada  
+🗓 **12–15 April 2026**  
+🔬 Focus: soil biodiversity, soil microbiomes, links between soil health, climate and policy  
+🔗 [Link](https://www.globalsoilbiodiversity.org/gsb4)
+
 ### 🧬 Microbiology Society Annual Conference 2026
 📍 Belfast, UK  
 🗓 **13–16 April 2026**  
