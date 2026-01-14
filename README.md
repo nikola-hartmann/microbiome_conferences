@@ -136,6 +136,12 @@ This repository is intended for:
 🔬 Focus: probiotics, prebiotics, postbiotics & industry translation  
 🔗 [Link](https://probiotaamericas.com/live/en/page/homepage)
 
+### 🧬 7th International Metaproteomics Symposium
+📍 Dessau, Germany  
+🗓 **21–24 June 2026**  
+🔬 Focus: metaproteomics applications in human, animal and environmental microbiomes, multi-omics integration, bioinformatics  
+🔗 [Link](https://www.hs-anhalt.de/landingsites/symposium-prof-benndorf/subpage-1/subpage-2.html)
+
 
 ## July 2026
 
