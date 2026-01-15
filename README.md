@@ -197,6 +197,13 @@ This repository is intended for:
 🔗 [Link](https://www.hs-anhalt.de/landingsites/symposium-prof-benndorf/subpage-1/subpage-2.html)
 
 
+### 🧬 IPC 2026 – Probiotics, Prebiotics & Gut Microbiota
+📍 Kraków, Poland  
+🗓 **22–24 June 2026**  
+🔬 Focus: gut microbiota modulation, pharmabiotics, postbiotics, regulatory updates  
+🔗 [Link](https://probiotic-conference.net)
+
+
 ## July 2026
 
 ### 🧬 Conference on Beneficial Microbes
