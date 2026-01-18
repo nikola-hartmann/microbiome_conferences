@@ -116,6 +116,13 @@ This repository is intended for:
 🔗 [Link](https://events.biodata.pt/event/6/)
 
 
+### 🧬 MIT Annual Microbiome Symposium 2026
+📍 Cambridge, MA, USA   
+🗓 **17 April 2026**  
+🔬 Focus: microbiome engineering, host–microbe interactions, computational microbiome science, and industry–academia perspectives  
+🔗 [Link](https://microbiome.mit.edu/calendar_event/annual-microbiome-symposium/)
+
+
 ### 🧬 ESCMID Global 2026
 📍 Munich, Germany  
 🗓 **17–21 April 2026**  
@@ -158,6 +165,13 @@ This repository is intended for:
 🗓 **13–14 May 2026**  
 🔬 Focus: microbiome and human, animal, agricultural and environmental health   
 🔗 [Link](https://www.huck.psu.edu/institutes-and-centers/microbiome-center/2026-one-health-microbiome-symposium)
+
+
+### 🧬 Harvard Chan Microbiome in Public Health (HCMPh) Symposium 2026
+📍 Boston, MA, USA 
+🗓 **18 May 2026**  
+🔬 Focus: translational microbiome research, host–microbe interactions, disease prevention and treatment  
+🔗 [Link](https://hsph.harvard.edu/research/microbiome/hcmph-symposium/)
 
 
 ## June 2026
