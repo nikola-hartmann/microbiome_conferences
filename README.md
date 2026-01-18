@@ -168,9 +168,9 @@ This repository is intended for:
 
 
 ### 🧬 Harvard Chan Microbiome in Public Health (HCMPh) Symposium 2026
-📍 Boston, MA, USA 
+📍 Boston, MA, USA  
 🗓 **18 May 2026**  
-🔬 Focus: translational microbiome research, host–microbe interactions, disease prevention and treatment  
+🔬 Focus: translational microbiome research, host-microbe interactions, disease prevention and treatment  
 🔗 [Link](https://hsph.harvard.edu/research/microbiome/hcmph-symposium/)
 
 
