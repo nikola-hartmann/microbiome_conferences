@@ -117,9 +117,9 @@ This repository is intended for:
 
 
 ### 🧬 MIT Annual Microbiome Symposium 2026
-📍 Cambridge, MA, USA   
+📍 Cambridge, MA, USA  
 🗓 **17 April 2026**  
-🔬 Focus: microbiome engineering, host–microbe interactions, computational microbiome science, and industry–academia perspectives  
+🔬 Focus: microbiome engineering, host-microbe interactions, computational microbiome science  
 🔗 [Link](https://microbiome.mit.edu/calendar_event/annual-microbiome-symposium/)
 
 
