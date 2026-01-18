@@ -65,6 +65,13 @@ This repository is intended for:
 🔗 [Link](https://fems-microbiology.org/opportunities/microbiome-interactions-in-health-and-disease/)
 
 
+### 🧬 CMI International Microbiome Meeting (CIMM) 2026
+📍 La Jolla, California, USA  
+🗓 **11 March 2026**  
+🔬 Focus: microbiome research and innovation (program TBA)  
+🔗 [Link](https://cmi.ucsd.edu/cimm/)
+
+
 ### 🧬 Gut Microbiota for Health (GMFH) World Summit 2026 
 📍 Porto, Portugal  
 🗓 **14–15 March 2026**  
