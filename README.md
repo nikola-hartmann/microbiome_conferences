@@ -42,6 +42,13 @@ This repository is intended for:
 🔗 [Link](https://infogut.eu/event/2026-pharmabiotics-conference/)
 
 
+### 🧬 XVII Congreso SEMiPyP 2026 — El microbioma humano: de la investigación a la clínica
+📍 Málaga, Spain  
+🗓 **4–6 February 2026**  
+🔬 Focus: human microbiome, probiotics & prebiotics — from research to clinical practice *(primarily Spanish-language event)*  
+🔗 [Link](https://semipyp.es/)
+
+
 ### 🧬 IPA World Congress + Probiota 2026
 📍 Dublin, Ireland  
 🗓 **11–13 February 2026**  
