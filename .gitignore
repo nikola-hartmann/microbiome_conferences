@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+.Rapp.history
+.AppleDouble
+.LSOverride
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.env
+venv/
+.venv/
+node_modules/
+
+# Logs and outputs
+*.log
