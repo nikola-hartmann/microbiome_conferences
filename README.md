@@ -151,6 +151,13 @@ This repository is intended for:
 🔗 [Link](https://www.womensmicrobes.com/)
 
 
+### 🧬 Microbiome R&D and Business Collaboration Congress: Asia (2026)
+📍 Singapore  
+🗓 **29–30 April 2026**  
+🔬 Focus: gut and skin microbiome, diet and nutrition, pre-/pro-/postbiotics, bioinformatics & machine learning, skin and hair microbiome, environmental impacts, and translational research  
+🔗 [Link](https://global-engage.com/product/microbiome-asia/)
+
+
 ## May 2026
 
 ### 🧬 SeedCon 2026 – International Conference on the Seed Microbiome and Microbial Inheritance
