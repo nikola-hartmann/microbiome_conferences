@@ -268,6 +268,13 @@ This repository is intended for:
 
 ## October 2026
 
+### 🧬 Skin Microbiome & Cosmeceuticals Congress: USA
+📍 San Diego, CA, USA  
+🗓 **01–02 October 2026**  
+🔬 Focus: skin microbiome, cosmeceuticals, TBA  
+🔗 [Link](https://global-engage.com/product/skin-microbiome-usa-2026/)
+
+
 ### 🧬 ISAPP-SFA Annual Meeting 2026 (Students & Fellows Association)
 📍 Tokyo, Japan  
 🗓 **06–08 October 2026**  
