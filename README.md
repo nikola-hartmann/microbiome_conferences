@@ -119,7 +119,7 @@ This repository is intended for:
 ### 🧬 4th International Conference of Microbial Ecology and Biotechnology
 📍 Muscat, Oman  
 🗓 **13–16 April 2026**  
-🔬 Focus: microbial ecology, microbiology and biotechnology
+🔬 Focus: microbial ecology, microbiology and biotechnology   
 🔗 [Link](https://conferences.squ.edu.om/mesme2026/)
 
 
