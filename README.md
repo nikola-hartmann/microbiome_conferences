@@ -310,7 +310,6 @@ This repository is intended for:
 📍 Berkeley, CA, USA  
 🗓 **18–19 November 2026**  
 🔬 Focus: viral ecogenomics, iral diversity and ecology, virus–host interactions, and applications of viral genomics  
-📝 Program: **TBA**  
 🔗 [Link](https://jgi.doe.gov/work-with-us/events/vega-symposium)
 
 
