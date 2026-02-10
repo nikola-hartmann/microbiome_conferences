@@ -241,7 +241,7 @@ This repository is intended for:
 
 ## July 2026
 
-### 🦠 Viruses of Microbes 2026 (VoM 2026)
+### 🧬 Viruses of Microbes 2026 (VoM 2026)
 📍 Prague, Czech Republic  
 🗓 **06–10 July 2026**  
 🔬 Focus: viruses of microorganisms (bacteriophages, archaeal viruses, microbial eukaryotic viruses); virus–host interactions, phage therapy, bioinformatics, environmental biotechnology  
