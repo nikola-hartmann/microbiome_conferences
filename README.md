@@ -306,6 +306,14 @@ This repository is intended for:
 🔗 [Link](https://iums2026.com/)
 
 
+### 🧬 Viral EcoGenomics & Applications (VEGA) Symposium 2026
+📍 Berkeley, CA, USA  
+🗓 **18–19 November 2026**  
+🔬 Focus: viral ecogenomics, iral diversity and ecology, virus–host interactions, and applications of viral genomics  
+📝 Program: **TBA**  
+🔗 [Link](https://jgi.doe.gov/work-with-us/events/vega-symposium)
+
+
 ## December 2026
 
 TBA
