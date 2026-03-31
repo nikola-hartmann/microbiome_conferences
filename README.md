@@ -185,7 +185,7 @@ This repository is intended for:
 📍 Rotterdam, The Netherlands  
 🗓 **11–12 May 2026**  
 🔬 Focus: skin microbiome, cosmeceuticals, dermatology, microbiome-based skincare, gut health and disease, gut-brain axis, biotics, personalised nutrition, industry collaboration  
-🔗 [Link](https://global-engage.com/product/skin-microbiome-cosmeceuticals-2026/)
+🔗 [Link](https://global-engage.com/product/skin-microbiome-cosmeceuticals-2026/)   
 📌 Co-located with: Microbiome & Probiotics R&D and Business Collaboration Forum
 
 
