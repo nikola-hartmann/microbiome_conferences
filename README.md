@@ -290,6 +290,13 @@ This repository is intended for:
 🔗 [Link](https://www.isapp-sfa.com/tokyo-2026)
 
 
+### 🧬 MENA Microbiome Conference 2026
+📍 Doha, Qatar  
+🗓 **17–18 October 2026**  
+🔬 Focus: microbiome biomarkers, early-life microbiome, host–microbe interactions, microbiome therapeutics, women’s health  
+🔗 [Link](https://sidraweb.sidra.org/events/research/mena-microbiome-conference-2026/)
+
+
 ### 🧬 Cold Spring Harbor – Microbiome Meeting
 📍 Cold Spring Harbor, USA  
 🗓 **27–31 October 2026**  
