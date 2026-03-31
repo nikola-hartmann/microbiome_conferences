@@ -160,6 +160,13 @@ This repository is intended for:
 
 ## May 2026
 
+### 🧬 Beyond Antibiotics: Emerging Strategies for Combating Bacterial Infection (Keystone Symposia)
+📍 Breckenridge, CO, USA  
+🗓 **04–07 May 2026**  
+🔬 Focus: antimicrobial resistance, bacteriophages, microbiome-based therapies, host–pathogen interactions, infectious disease  
+🔗 [Link](https://www.keystonesymposia.org/conferences/conference-listing/meeting/D42026)
+
+
 ### 🧬 SeedCon 2026 – International Conference on the Seed Microbiome and Microbial Inheritance
 📍 Potsdam, Germany  
 🗓 **05–07 May 2026**  
