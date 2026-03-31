@@ -225,6 +225,13 @@ This repository is intended for:
 🔗 [Link](https://microbiome-anchor.ca/)
 
 
+### 🧬 Mucins in Health and Disease 2026
+📍 Ghent, Belgium  
+🗓 **15–18 June 2026**  
+🔬 Focus: mucins, host–microbiome interactions, mucosal biology, glycosylation, inflammation, infection, cancer  
+🔗 [Link](https://www.vibconferences.be/events/mucins-in-health-and-disease)
+
+
 ### 🧬 7th International Metaproteomics Symposium
 📍 Dessau, Germany  
 🗓 **21–24 June 2026**  
@@ -316,7 +323,7 @@ This repository is intended for:
 ### 🧬 Viral EcoGenomics & Applications (VEGA) Symposium 2026
 📍 Berkeley, CA, USA  
 🗓 **18–19 November 2026**  
-🔬 Focus: viral ecogenomics, iral diversity and ecology, virus–host interactions, and applications of viral genomics  
+🔬 Focus: viral ecogenomics, viral diversity and ecology, virus–host interactions, and applications of viral genomics  
 🔗 [Link](https://jgi.doe.gov/work-with-us/events/vega-symposium)
 
 
