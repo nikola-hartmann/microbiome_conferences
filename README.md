@@ -181,11 +181,12 @@ This repository is intended for:
 🔗 [Link](https://www.cell-symposia.com/microbiome-2026/)
 
 
-### 🧬 Microbiome & Probiotics R&D and Business Collaboration Forum 2026
+### 🧬 Skin Microbiome & Cosmeceuticals Congress: Europe
 📍 Rotterdam, The Netherlands  
 🗓 **11–12 May 2026**  
-🔬 Focus: gut health and disease, gut–brain axis, biotics, personalized nutrition, industry collaboration  
-🔗 [Link](https://global-engage.com/product/microbiota-2026/)
+🔬 Focus: skin microbiome, cosmeceuticals, dermatology, microbiome-based skincare, gut health and disease, gut-brain axis, biotics, personalised nutrition, industry collaboration  
+🔗 [Link](https://global-engage.com/product/skin-microbiome-cosmeceuticals-2026/)
+📌 Co-located with: Microbiome & Probiotics R&D and Business Collaboration Forum
 
 
 ### 🧬 One Health Microbiome Symposium 2026
