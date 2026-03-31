@@ -319,6 +319,13 @@ This repository is intended for:
 🔗 [Link](https://meetings.cshl.edu/meetings.aspx?meet=BIOME)
 
 
+### 🧬 SMART Symposium on Microbiota in Health and Disease
+📍 Shenzhen, China  
+🗓 **30 October – 01 November 2026**  
+🔬 Focus: microbiota in health and disease, host–microbe interactions, translational microbiome research  
+🔗 [Link](https://symposia.smart.org.cn/sym/event/FutureEvents/20250908004.html)
+
+
 ## November 2026
 
 ### 🧬 Oral–Gut Conference 3 (Oral-Gut 2026)
