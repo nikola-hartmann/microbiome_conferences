@@ -321,6 +321,13 @@ This repository is intended for:
 
 ## November 2026
 
+### 🧬 Oral–Gut Conference 3 (Oral-Gut 2026)
+📍 Rio de Janeiro, Brazil  
+🗓 **03–05 November 2026**  
+🔬 Focus: oral–gut axis, mucosal immunology, microbiota–immune interactions, inflammation and disease  
+🔗 [Link](https://oralgut.com/oralgut3/)
+
+
 ### 🧬 IUMS Biennial Congress 2026
 📍 Lisbon, Portugal  
 🗓 **04–06 November 2026**  
