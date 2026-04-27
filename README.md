@@ -263,6 +263,13 @@ This repository is intended for:
 🔗 [Link](https://www.vom2026.org/)
 
 
+### 🧬 Intelligent Systems for Molecular Biology
+📍 Washington D.C., USA 
+🗓 **12–16 July 2026**  
+🔬 Focus: bioinformatics, computational methods  
+🔗 [Link](https://www.iscb.org/ismb2026/home)
+
+
 ### 🧬 Conference on Beneficial Microbes
 📍 Madison, Wisconsin, USA  
 🗓 **19–23 July 2026**  
