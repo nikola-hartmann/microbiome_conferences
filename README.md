@@ -385,6 +385,13 @@ This repository is intended for:
 🔬 Focus: human microbiome across biological systems, emerging discoveries, translational research, microbiome–host interactions  
 🔗 [Link](https://www.microbiome-research.net/2026-symposium)
 
+
+### 🧬 EMBL Conference: Unlocking the Functional Diversity of Gut Microbiomes
+📍 Heidelberg, Germany & Online  
+🗓 **08–10 December 2026**  
+🔬 Focus: gut microbiome, microbial functional diversity, host–microbe interactions, microbiome research  
+🔗 [Link](https://www.embl.org/about/info/course-and-conference-office/events/gmd26-01/)
+
 ## 📬 Contact
 
 Missing a conference or spotted a mistake?  
