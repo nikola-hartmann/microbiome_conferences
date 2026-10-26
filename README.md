@@ -379,6 +379,20 @@ This repository is intended for:
 
 ## December 2026
 
+### 🧬 9th International Conference on Microbiome Engineering
+📍 Raleigh–Durham, NC, USA  
+🗓 **01–03 December 2026**  
+🔬 Focus: microbiome engineering, synthetic biology, microbial ecology, systems biology, bioinformatics  
+🔗 [Link](https://www.aiche.org/sbe/conferences/international-conference-on-microbiome-engineering)
+
+
+### 🧬 4th African Microbiome Symposium: Connecting Communities – From Cells to Society
+📍 South Africa  
+🗓 **02–04 December 2026**  
+🔬 Focus: African microbiome research, microbial communities, microbiome science and society  
+🔗 [Link](https://sasm.org.za/news/conference-news/item/404-4th-african-microbiome-symposium.html)
+
+
 ### 🧬 4th AHMRN Symposium: The Human Microbiome Across Biological Systems – Emerging Discoveries and Translational Opportunities
 📍 Sydney, Australia & Online  
 🗓 **03 December 2026**  
