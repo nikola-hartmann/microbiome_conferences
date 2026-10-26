@@ -379,7 +379,11 @@ This repository is intended for:
 
 ## December 2026
 
-TBA
+### 🧬 4th AHMRN Symposium: The Human Microbiome Across Biological Systems – Emerging Discoveries and Translational Opportunities
+📍 Sydney, Australia & Online  
+🗓 **03 December 2026**  
+🔬 Focus: human microbiome across biological systems, emerging discoveries, translational research, microbiome–host interactions  
+🔗 [Link](https://www.microbiome-research.net/2026-symposium)
 
 ## 📬 Contact
 
