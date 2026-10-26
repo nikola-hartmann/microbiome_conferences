@@ -400,6 +400,13 @@ This repository is intended for:
 🔗 [Link](https://www.microbiome-research.net/2026-symposium)
 
 
+### 🧬 Gut Microbiota–Immune–Brain Axis Development in Early Life
+📍 Vienna, Austria  
+🗓 **07 December 2026**  
+🔬 Focus: early-life gut microbiome, immune development, gut–brain axis, neonatal health, clinical translation  
+🔗 [Link](https://ccp.meduniwien.ac.at/neogiba/)
+
+
 ### 🧬 EMBL Conference: Unlocking the Functional Diversity of Gut Microbiomes
 📍 Heidelberg, Germany & Online  
 🗓 **08–10 December 2026**  
