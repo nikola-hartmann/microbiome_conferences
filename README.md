@@ -370,6 +370,13 @@ This repository is intended for:
 🔗 [Link](https://jgi.doe.gov/work-with-us/events/vega-symposium)
 
 
+### 🧬 Microbiome Meets Multi-Omics Symposium
+📍 Turku, Finland  
+🗓 **19–20 November 2026**  
+🔬 Focus: microbiome multi-omics, functional microbiome research, virome, host–microbe interactions  
+🔗 [Link](https://biocityturku.fi/events/microbiome-meets-multiomics-symposium/)
+
+
 ## December 2026
 
 TBA
