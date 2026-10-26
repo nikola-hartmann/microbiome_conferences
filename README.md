@@ -413,6 +413,14 @@ This repository is intended for:
 🔬 Focus: gut microbiome, microbial functional diversity, host–microbe interactions, microbiome research  
 🔗 [Link](https://www.embl.org/about/info/course-and-conference-office/events/gmd26-01/)
 
+
+### 🧬 5th Keio University WPI-Bio2Q International Symposium: Wiring the Body – Brain–Organ–Microbiome Networks
+📍 Tokyo, Japan  
+🗓 **09–10 December 2026**  
+🔬 Focus: brain–organ–microbiome interactions, inter-organ communication, host–microbe networks, systems biology  
+🔗 [Link](https://bio2q.keio.ac.jp/news/the-5th-keio-university-wpi-bio2q-international-symposium/)
+
+
 ## 📬 Contact
 
 Missing a conference or spotted a mistake?  
