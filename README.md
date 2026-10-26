@@ -335,6 +335,13 @@ This repository is intended for:
 🔗 [Link](https://oralgut.com/oralgut3/)
 
 
+### 🧬 12th Theodor Escherich Symposium on Microbiome Research
+📍 Graz, Austria  
+🗓 **03 November 2026**  
+🔬 Focus: human microbiome, microbial ecology, gut microbiome, metabolomics, host–microbe interactions  
+🔗 [Link](https://insights.medunigraz.at/en/events/detail/12th-theodor-escherich-symposium-on-microbiome-research)
+
+
 ### 🧬 IUMS Biennial Congress 2026
 📍 Lisbon, Portugal  
 🗓 **04–06 November 2026**  
