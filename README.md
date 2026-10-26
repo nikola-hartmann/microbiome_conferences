@@ -356,6 +356,13 @@ This repository is intended for:
 🔗 [Link](https://iums2026.com/)
 
 
+### 🧬 4th Copenhagen Gut Microbiome Symposium
+📍 Copenhagen, Denmark  
+🗓 **11 November 2026**  
+🔬 Focus: gut microbiome, human health and disease, host–microbe interactions  
+🔗 [Link](https://cphgut.ku.dk/events/symposium-november-2026)
+
+
 ### 🧬 Viral EcoGenomics & Applications (VEGA) Symposium 2026
 📍 Berkeley, CA, USA  
 🗓 **18–19 November 2026**  
